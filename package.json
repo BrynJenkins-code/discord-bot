@@ -1,0 +1,19 @@
+{
+  "name": "crypto-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon --inspect src/index.js"
+  },
+  "dependencies": {
+    "coingecko-api": "1.0.10",
+    "discord.js": "12.5.3",
+    "node": "14",
+    "twitter": "1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
